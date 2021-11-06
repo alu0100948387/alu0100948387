@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**alu0100948387/alu0100948387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adrián Prieto Curbelo
+* ### Ingeniero Informático. :computer:
+* ### Máster en Ciberseguridad e Inteligencia de Datos.
 
-Here are some ideas to get you started:
+Lenguajes de programación | Uso
+------------------------- |---
+ __Python, Scala__ | Big Data 
+ __C, C++__ | Desarrollo de aplicaciones de escritorio.
+ __Wordpress, PHP, JQuery, JavaScript, HTML, CSS__ | Desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu0100948387&show_icons=true&theme=radical)
+
+
+## Remember: 
+</br>
+
+`/* A Better way to explain should be: */`
+```c++
+while(true) {
+    if ( do_anything() ){
+        go_forward();
+    }
+    else keep_trying (const &foo);
+}
+```
